@@ -37,6 +37,7 @@ My engineering background gives me a quantitative foundation while my data scien
 
 
 📜 Certifications
+
 AWS Certified Machine Learning Engineer – Associate
 AWS Certified AI Practitioner
 AWS Certified Cloud Practitioner
