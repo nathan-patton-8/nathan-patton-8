@@ -1,4 +1,5 @@
 Hi, I'm Nathan 👋
+
 Data Scientist | AI/ML | Data Engineering | Cloud
 
 I'm a data-driven consultant and University of Virginia engineering graduate passionate about building intelligent, scalable solutions from complex data.
@@ -41,6 +42,7 @@ Databricks Fundamentals
 ICAgile Certified Professional
 
 🔭 Projects
+
 I'm currently building out my public portfolio.
 
 📈 GitHub Stats
@@ -50,5 +52,3 @@ I'm currently building out my public portfolio.
 🤝 Let's Connect
 
 I'm interested in collaborating on projects involving AI/ML, data science, data engineering, cloud computing, and software development.
-
-<p align="center"> <i>Building at the intersection of engineering, data, and AI.</i> </p>
