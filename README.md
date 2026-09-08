@@ -8,6 +8,7 @@ My interests span machine learning, artificial intelligence, data engineering, c
 
 Currently building projects at the intersection of AI, data, and software engineering.
 
+
 💼 Professional Experience
 Data Scientist — Booz Allen Hamilton
 
@@ -24,6 +25,7 @@ Performed data migration assessments to identify quality issues, compatibility r
 Built processes and documentation supporting data governance and environment access management
 Worked extensively with Databricks, PySpark, AWS, SQL, and Python
 
+
 🎓 Education
 University of Virginia
 
@@ -33,6 +35,7 @@ May 2024 · Highest Distinction · GPA: 3.90
 
 My engineering background gives me a quantitative foundation while my data science and business coursework allows me to approach technical problems from both an analytical and practical perspective.
 
+
 📜 Certifications
 AWS Certified Machine Learning Engineer – Associate
 AWS Certified AI Practitioner
@@ -41,13 +44,11 @@ Microsoft Certified: Azure Fundamentals
 Databricks Fundamentals
 ICAgile Certified Professional
 
+
 🔭 Projects
 
 I'm currently building out my public portfolio.
 
-📈 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/> </p>
 
 🤝 Let's Connect
 
