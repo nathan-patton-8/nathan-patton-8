@@ -1,4 +1,7 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aboout+Me+👋)](https://git.io/typing-svg)
+## 👋 Hello!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+page,+my+name+is+Nathan+Patton.+Please+read+further+to+learn+more+about+me!)](https://git.io/typing-svg)
+
+## 🧑‍💻 About Me
 #### Data Scientist | AI/ML | Data Engineering | Cloud
 
 I'm a data-driven consultant and University of Virginia engineering graduate focused on AI/ML, data engineering, cloud computing, and software development. I enjoy turning complex problems and data into scalable, practical solutions.
