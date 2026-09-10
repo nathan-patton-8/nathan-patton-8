@@ -1,4 +1,4 @@
-## About Me👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aboout+Me+👋)](https://git.io/typing-svg)
 
 Data Scientist | AI/ML | Data Engineering | Cloud
 
