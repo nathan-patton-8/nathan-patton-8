@@ -20,83 +20,108 @@ Data Science & Engineering Business Minor
 
 ## 🛠️ Skills
 
-#### Tools & Platforms
+#### Software & Tools
 
-<a href="https://aws.amazon.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-</a>
-<a href="https://www.databricks.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="45"/>
-</a>
-<a href="https://code.visualstudio.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-</a>
-<a href="https://posit.co/products/open-source/rstudio/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="45"/>
-</a>
-<a href="https://openai.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="45"/>
-</a>
-<a href="https://github.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</a>
-<a href="https://www.atlassian.com/software/jira">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/>
-</a>
-<a href="https://www.atlassian.com/software/confluence">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="45"/>
-</a>
+<p>
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+  </a>
+
+  <!-- Databricks -->
+  <a href="https://www.databricks.com/">
+    <img src="https://cdn.simpleicons.org/databricks" width="40" height="40" alt="Databricks"/>
+  </a>
+
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  </a>
+
+  <!-- RStudio -->
+  <a href="https://posit.co/products/open-source/rstudio/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/rstudio/rstudio-original.svg" width="40" height="40" alt="RStudio"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/">
+    <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub"/>
+  </a>
+
+  <!-- Jira -->
+  <a href="https://www.atlassian.com/software/jira">
+    <img src="https://cdn.simpleicons.org/jira" width="40" height="40" alt="Jira"/>
+  </a>
+
+  <!-- Confluence -->
+  <a href="https://www.atlassian.com/software/confluence">
+    <img src="https://cdn.simpleicons.org/confluence" width="40" height="40" alt="Confluence"/>
+  </a>
+</p>
 
 #### Programming Languages
 
-<a href="https://www.python.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-</a>
-<a href="https://www.r-project.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/>
-</a>
-<a href="https://www.mathworks.com/products/matlab.html">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45"/>
-</a>
-<a href="https://www.java.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-</a>
-<a href="https://www.postgresql.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-</a>
+<p>
+  <a href="https://www.python.org/">
+    <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python"/>
+  </a>
+
+  <a href="https://www.r-project.org/">
+    <img src="https://cdn.simpleicons.org/r" width="40" height="40" alt="R"/>
+  </a>
+
+  <a href="https://www.mathworks.com/products/matlab.html">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/>
+  </a>
+
+  <a href="https://www.java.com/">
+    <img src="https://cdn.simpleicons.org/openjdk" width="40" height="40" alt="Java"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://cdn.simpleicons.org/html5" width="40" height="40" alt="HTML"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://cdn.simpleicons.org/css" width="40" height="40" alt="CSS"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://cdn.simpleicons.org/javascript" width="40" height="40" alt="JavaScript"/>
+  </a>
+</p>
 
 #### Frameworks & Libraries
 
-<a href="https://spark.apache.org/docs/latest/api/python/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45"/>
-</a>
-<a href="https://pandas.pydata.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-</a>
-<a href="https://scikit-learn.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
-</a>
-<a href="https://www.langchain.com/">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain.png" width="45"/>
-</a>
-<a href="https://www.tensorflow.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-</a>
-<a href="https://keras.io/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="45"/>
-</a>
-<a href="https://pytorch.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-</a>
+<p>
+  <a href="https://spark.apache.org/docs/latest/api/python/">
+    <img src="https://cdn.simpleicons.org/apachespark" width="40" height="40" alt="PySpark"/>
+  </a>
+
+  <a href="https://pandas.pydata.org/">
+    <img src="https://cdn.simpleicons.org/pandas" width="40" height="40" alt="Pandas"/>
+  </a>
+
+  <a href="https://scikit-learn.org/">
+    <img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40" alt="Scikit-learn"/>
+  </a>
+
+  <a href="https://www.langchain.com/">
+    <img src="https://cdn.simpleicons.org/langchain" width="40" height="40" alt="LangChain"/>
+  </a>
+
+  <a href="https://www.tensorflow.org/">
+    <img src="https://cdn.simpleicons.org/tensorflow" width="40" height="40" alt="TensorFlow"/>
+  </a>
+
+  <a href="https://keras.io/">
+    <img src="https://cdn.simpleicons.org/keras" width="40" height="40" alt="Keras"/>
+  </a>
+
+  <a href="https://pytorch.org/">
+    <img src="https://cdn.simpleicons.org/pytorch" width="40" height="40" alt="PyTorch"/>
+  </a>
+</p>
 
 
 
