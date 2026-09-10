@@ -62,3 +62,5 @@ I'm currently building out my public portfolio.
 ## 🤝 Let's Connect
 
 I'm interested in collaborating on projects involving AI/ML, data science, data engineering, cloud computing, and software development.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nathanpatton8)
