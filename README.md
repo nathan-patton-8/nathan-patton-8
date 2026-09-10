@@ -1,19 +1,30 @@
 ## 👋 Hello
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+page!;I+am+Nathan+Patton;I+look+forward+to+connecting!" alt="Typing SVG" /></a>
 
+</p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nathan-patton-8&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/nathan-patton-8?tab=followers">
+    <img src="https://img.shields.io/github/followers/nathan-patton-8?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/nathan-patton-8?tab=repositories">
+    <img src="https://img.shields.io/github/stars/nathan-patton-8?affiliations=OWNER&style=flat&label=Stars" alt="GitHub Stars" />
+  </a>
+</p>
 
 ## 🧑‍💻 About Me
 #### Data Scientist | AI/ML | Data Engineering | Cloud
 
-I'm a data-driven consultant and University of Virginia engineering graduate focused on Data Science, AI/ML, and data engineering. I enjoy turning complex problems and data into scalable, practical solutions.
+<p>
+  <i>I'm a data-driven consultant and University of Virginia engineering graduate focused on Data Science, AI/ML, and data engineering. I enjoy turning complex problems and data into scalable, practical solutions..</i>
+</p>
 
 
 
 ## 🎓 Education
 #### University of Virginia
 
-B.S. Biomedical Engineering
-Data Science & Engineering Business Minor
+<i>B.S. Biomedical Engineering, Data Science & Engineering Business Minor<i>
 
 
 
