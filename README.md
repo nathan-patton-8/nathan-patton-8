@@ -1,6 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Aboout+Me+👋)](https://git.io/typing-svg)
-
-Data Scientist | AI/ML | Data Engineering | Cloud
+#### Data Scientist | AI/ML | Data Engineering | Cloud
 
 I'm a data-driven consultant and University of Virginia engineering graduate focused on AI/ML, data engineering, cloud computing, and software development. I enjoy turning complex problems and data into scalable, practical solutions.
 
@@ -63,4 +62,4 @@ I'm currently building out my public portfolio.
 
 I'm interested in collaborating on projects involving AI/ML, data science, data engineering, cloud computing, and software development.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nathanpatton8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanpatton8/)
