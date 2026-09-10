@@ -2,11 +2,7 @@
 
 Data Scientist | AI/ML | Data Engineering | Cloud
 
-I'm a data-driven consultant and University of Virginia engineering graduate passionate about building intelligent, scalable solutions from complex data.
-
-My interests span machine learning, artificial intelligence, data engineering, cloud computing, and software development. I enjoy working across the full lifecycle - from understanding a problem and designing a solution to building, deploying, and communicating the results.
-
-Currently building projects at the intersection of AI, data, and software engineering.
+I'm a data-driven consultant and University of Virginia engineering graduate focused on AI/ML, data engineering, cloud computing, and software development. I enjoy turning complex problems and data into scalable, practical solutions.
 
 
 
@@ -38,8 +34,6 @@ Worked extensively with Databricks, PySpark, AWS, SQL, and Python
 
 B.S. Biomedical Engineering
 Data Science & Engineering Business Minor
-
-My engineering background gives me a quantitative foundation while my data science and business coursework allows me to approach technical problems from both an analytical and practical perspective.
 
 
 
