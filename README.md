@@ -1,4 +1,4 @@
-Hi, I'm Nathan 👋
+## About Me👋
 
 Data Scientist | AI/ML | Data Engineering | Cloud
 
@@ -10,8 +10,8 @@ Currently building projects at the intersection of AI, data, and software engine
 
 
 
-💼 Professional Experience
-Data Scientist — Booz Allen Hamilton
+## 💼 Professional Experience
+#### Data Scientist — Booz Allen Hamilton
 
 2024 – Present
 
@@ -33,18 +33,17 @@ Worked extensively with Databricks, PySpark, AWS, SQL, and Python
 
 
 
-🎓 Education
-University of Virginia
+##🎓 Education
+####University of Virginia
 
 B.S. Biomedical Engineering
 Data Science & Engineering Business Minor
-May 2024 · Highest Distinction · GPA: 3.90
 
 My engineering background gives me a quantitative foundation while my data science and business coursework allows me to approach technical problems from both an analytical and practical perspective.
 
 
 
-📜 Certifications
+##📜 Certifications
 
 AWS Certified Machine Learning Engineer – Associate
 
@@ -60,12 +59,12 @@ ICAgile Certified Professional
 
 
 
-🔭 Projects
+##🔭 Projects
 
 I'm currently building out my public portfolio.
 
 
 
-🤝 Let's Connect
+##🤝 Let's Connect
 
 I'm interested in collaborating on projects involving AI/ML, data science, data engineering, cloud computing, and software development.
