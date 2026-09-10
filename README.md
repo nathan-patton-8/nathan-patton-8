@@ -33,8 +33,8 @@ Worked extensively with Databricks, PySpark, AWS, SQL, and Python
 
 
 
-##🎓 Education
-####University of Virginia
+## 🎓 Education
+#### University of Virginia
 
 B.S. Biomedical Engineering
 Data Science & Engineering Business Minor
@@ -43,7 +43,7 @@ My engineering background gives me a quantitative foundation while my data scien
 
 
 
-##📜 Certifications
+## 📜 Certifications
 
 AWS Certified Machine Learning Engineer – Associate
 
@@ -59,12 +59,12 @@ ICAgile Certified Professional
 
 
 
-##🔭 Projects
+## 🔭 Projects
 
 I'm currently building out my public portfolio.
 
 
 
-##🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm interested in collaborating on projects involving AI/ML, data science, data engineering, cloud computing, and software development.
