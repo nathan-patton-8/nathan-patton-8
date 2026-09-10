@@ -25,7 +25,7 @@ Data Science & Engineering Business Minor
 <p>
   <!-- AWS -->
   <a href="https://aws.amazon.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+    <img src="https://cdn.simpleicons.org/amazonwebservices" width="40" height="40" alt="AWS"/>
   </a>
 
   <!-- Databricks -->
@@ -59,7 +59,7 @@ Data Science & Engineering Business Minor
   </a>
 
   <a href="https://www.java.com/">
-    <img src="https://cdn.simpleicons.org/openjdk" width="40" height="40" alt="Java"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -83,9 +83,9 @@ Data Science & Engineering Business Minor
   </a>
 
   <a href="https://pandas.pydata.org/">
-    <img src="https://cdn.simpleicons.org/pandas" width="40" height="40" alt="Pandas"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
   </a>
-
+  
   <a href="https://scikit-learn.org/">
     <img src="https://cdn.simpleicons.org/scikitlearn" width="40" height="40" alt="Scikit-learn"/>
   </a>
