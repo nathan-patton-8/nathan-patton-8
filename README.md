@@ -43,22 +43,6 @@ Data Science & Engineering Business Minor
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/rstudio/rstudio-original.svg" width="40" height="40" alt="RStudio"/>
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/">
-    <img src="https://cdn.simpleicons.org/github" width="40" height="40" alt="GitHub"/>
-  </a>
-
-  <!-- Jira -->
-  <a href="https://www.atlassian.com/software/jira">
-    <img src="https://cdn.simpleicons.org/jira" width="40" height="40" alt="Jira"/>
-  </a>
-
-  <!-- Confluence -->
-  <a href="https://www.atlassian.com/software/confluence">
-    <img src="https://cdn.simpleicons.org/confluence" width="40" height="40" alt="Confluence"/>
-  </a>
-</p>
-
 #### Programming Languages
 
 <p>
