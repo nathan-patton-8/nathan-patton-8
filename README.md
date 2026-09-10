@@ -25,9 +25,8 @@ Data Science & Engineering Business Minor
 <p>
   <!-- AWS -->
   <a href="https://aws.amazon.com/">
-    <img src="https://cdn.simpleicons.org/amazonwebservices" width="40" height="40" alt="AWS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
   </a>
-
   <!-- Databricks -->
   <a href="https://www.databricks.com/">
     <img src="https://cdn.simpleicons.org/databricks" width="40" height="40" alt="Databricks"/>
@@ -111,17 +110,20 @@ Data Science & Engineering Business Minor
 
 ## 📜 Certifications
 
-AWS Certified Machine Learning Engineer – Associate
-
-AWS Certified AI Practitioner
-
-AWS Certified Cloud Practitioner
-
-Microsoft Certified: Azure Fundamentals
-
-Databricks Fundamentals
-
-ICAgile Certified Professional
+<table>
+  <tr>
+    <td><b>AWS Certified Machine Learning Engineer – Associate</b></td>
+    <td><b>AWS Certified AI Practitioner</b></td>
+  </tr>
+  <tr>
+    <td><b>AWS Certified Cloud Practitioner</b></td>
+    <td><b>Microsoft Certified: Azure Fundamentals</b></td>
+  </tr>
+  <tr>
+    <td><b>Databricks Fundamentals</b></td>
+    <td><b>ICAgile Certified Professional</b></td>
+  </tr>
+</table>
 
 
 
